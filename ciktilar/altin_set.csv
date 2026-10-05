@@ -1,0 +1,41 @@
+﻿geri_bildirim_id,arac_id,metin,insan_duygu,insan_konular
+9503,500584,Kampanya mesajı geldi ama şubede geçerli değilmiş.,Olumsuz,"fiyat, diğer"
+9250,500821,Bir yıldız bile fazla.,Olumsuz,diğer
+9562,503079,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",Olumlu,"randevu, süre"
+9219,503519,"Fatura tutarı verilen tekliften yüksek çıktı, önceden bilgilendirilmedim.",Olumsuz,fiyat
+9543,503409,"Rakip markanın servisinde aynı işlem daha ucuzdu, orayı tercih edeceğim.",Olumsuz,fiyat
+9513,501611,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,iş_kalitesi
+9465,502886,"Aracı teslim alırken içi temizlenmişti, güzel bir detay.",Olumlu,temizlik
+9080,501116,"Aracı teslim alırken içi temizlenmişti, güzel bir detay.",Olumlu,temizlik
+9541,502856,"Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.",Olumlu,personel
+9149,503263,İşçilik kalitesi iyiydi ama fiyatlandırma gerçekten pahalı.,Karışık,"fiyat, iş_kalitesi"
+9496,504407,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik
+9033,504633,"Arıza giderilmemiş, aynı ses devam ediyor. Tekrar gitmek zorunda kaldım.",Olumsuz,iş_kalitesi
+9057,503741,"Beklediğimden erken bitti, aradılar haber verdiler.",Olumlu,"süre, personel"
+9093,503563,"Harika bir deneyimdi, sadece üç hafta bekledim.",Olumsuz,süre
+9421,503561,Kampanya mesajı geldi ama şubede geçerli değilmiş.,Karışık,"fiyat, diğer"
+9079,500773,"Randevu saatinde gittim ama iki saat bekledim, kimse bilgi vermedi.",Olumsuz,"süre, personel"
+9004,500867,"Randevu saatinde gittim ama iki saat bekledim, kimse bilgi vermedi.",Olumsuz,"süre, personel"
+9413,502504,"Servis ekibi çok ilgiliydi, aracım söz verilen saatte hazırdı. Teşekkürler.",Olumlu,"süre, personel"
+9194,501007,"Fatura tutarı verilen tekliften yüksek çıktı, önceden bilgilendirilmedim.",Olumsuz,fiyat
+9587,504248,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,diğer
+9135,502925,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",Olumlu,"randevu, süre"
+9153,502576,"Rakip markanın servisinde aynı işlem daha ucuzdu, orayı tercih edeceğim.",Olumsuz,"fiyat, iş_kalitesi"
+9051,501798,Yedek araç verilmesi büyük kolaylık oldu.,Olumlu,yedek_parça
+9636,504509,"Fiyat çok yüksek geldi, aynı işi özel serviste yarı fiyata yaptırabilirdim.",Olumsuz,"fiyat, iş_kalitesi"
+9610,503444,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,diğer
+9114,501767,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,diğer
+9163,502581,"Personel çok nazikti, sadece süre biraz uzun sürdü.",Karışık,"süre, personel"
+9603,504110,"Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.",Olumsuz,personel
+9635,504198,"Danışman ilgisizdi, sorduğum soruya doğru düzgün cevap vermedi.",Olumsuz,personel
+9526,504215,Teşekkürler,Olumlu,diğer
+9168,500204,"Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.",Olumlu,"fiyat, personel"
+9326,501013,"Aracı teslim alırken içi temizlenmişti, güzel bir detay.",Olumlu,iş_kalitesi
+9263,500325,"Harika bir deneyimdi, sadece üç hafta bekledim.",Olumsuz,süre
+9295,502260,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik
+9136,502743,"Servis temizdi ve ekip güler yüzlüydü, yalnızca yedek parça beklemesi can sıkıcıydı.",Karışık,"yedek_parça, temizlik"
+9337,504525,"Servis ekibi çok ilgiliydi, aracım söz verilen saatte hazırdı. Teşekkürler.",Olumlu,"süre, personel"
+9320,504439,"Harika bir deneyimdi, sadece üç hafta bekledim.",Olumsuz,süre
+9627,503346,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,iş_kalitesi
+9282,500602,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik
+9324,502487,"Arıza giderilmemiş, aynı ses devam ediyor. Tekrar gitmek zorunda kaldım.",Olumsuz,iş_kalitesi
